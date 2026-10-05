@@ -10,14 +10,8 @@
 
 ## 🔥 A Bit About Me  
 - 💻 Building awesome user interfaces  
-- 🚀 Passionate about **JavaScript**, **React**
+- 🚀 Passionate about **Golang**, **JavaScript**, **React**
 - 🏋️ Constantly learning and improving  
-
----
-
-## 📫 How to Reach Me?  
-📩 **Telegram:** [@kulchickii](https://t.me/kulchickii) 
-🐙 **GitHub:** [github.com/kulchickii](https://github.com/kulchickii)  
 
 ---
 
